@@ -14,4 +14,10 @@ from jenkin web-ui-->Manage Jenkins--> Manage Credentials-->global--> add creden
 
 use  this ID to the pipeline "credentialsId" field
 
+Reguired Jenkin Plugin:
+
+> Kubernetes plugin
+> 	Kubernetes Credentials Plugin
+> 		Kubernetes CLI Plugin
+
 
